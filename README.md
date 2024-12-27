@@ -5,13 +5,13 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 ---
 
  ## 🚀About me
- 
+
 - 🎓 Industrial Process Engineer transitioning into software development.
 - 🌱 Currently learning **CSS** and **JavaScript** as part of my training at **Conquer Blocks**.
 - 💻 Experience in:
-- **Python**: Applications like text editors and text-to-speech systems.
-- **Databases**: Advanced management with **MySQL**.
-- **Frontend**: Structuring information with **HTML**.
+  - **Python**: Applications like text editors and text-to-speech systems.
+  - **Databases**: Advanced management with **MySQL**.
+  - **Frontend**: Structuring information with **HTML**.
 - 🔍 Next goal: Becoming a strong **frontend developer** and mastering **React.js**.
 
 ---
