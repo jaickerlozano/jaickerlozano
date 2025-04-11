@@ -39,7 +39,8 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 - 📝 **Text Editor**: A functional editor built with Python. [Repository](https://github.com/jaickerlozano/editor_de_texto)
 - 🗣️ **Text-to-Speech**: An app that converts text to audio using Python libraries. [Repository](https://github.com/jaickerlozano/texto_a_voz)
 - 📊 **Database Management**: Advanced MySQL projects for efficient data handling. [Repository](https://github.com/jaickerlozano/Ejercicios_practica_2_sql)
-- 🌐 **HTML Structuring**: A project to organize and structure web information. [Repository](https://github.com/jaickerlozano/proyecto_elaboracion_pagina_html)
+- 🌐 **Conquer Blocks Landing Page**: A structured and styled webpage built with HTML and CSS for the Conquer Blocks academy. [Repository](https://github.com/jaickerlozano/proyecto_elaboracion_pagina_html)
+- 🎨 **Portfolio - Landing Page**: A responsive personal portfolio built with HTML, SASS, and Vite. [Repository](https://github.com/jaickerlozano/portfolio-landing-page)
 
 ---
 
