@@ -40,11 +40,11 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 - 🗣️ **Text-to-Speech**: An app that converts text to audio using Python libraries. [Repository](https://github.com/jaickerlozano/texto_a_voz)
 - 📊 **Database Management**: Advanced MySQL projects for efficient data handling. [Repository](https://github.com/jaickerlozano/Ejercicios_practica_2_sql)
 - 🌐 **Conquer Blocks Landing Page**: A structured and styled webpage built with HTML and CSS for the Conquer Blocks academy. [Repository](https://github.com/jaickerlozano/proyecto_elaboracion_pagina_html)
-- 🎨 **Portfolio - Landing Page**: A responsive personal portfolio built with HTML, SASS, and Vite. [Repository](https://github.com/jaickerlozano/portfolio-landing-page)
-- 🖼️ **Modern Art Gallery**: A clean and minimalistic gallery layout showcasing modern art using HTML and CSS. [Repository](https://github.com/jaickerlozano/modern-art-gallery)
-- 📚 **E-Learning Landing Page**: A landing page for an online education platform, built with HTML and CSS. [Repository](https://github.com/jaickerlozano/e-learning-landing-page)
-- 💆‍♀️ **Spa & Beauty Landing Page**: A stylish landing page for a spa and beauty business using responsive design. [Repository](https://github.com/jaickerlozano/spa-beauty-landing-page)
-- 🧭 **Header Gathsession Landing Page**: A bold and modern header-focused landing page design. [Repository](https://github.com/jaickerlozano/header-gathsession-landing-page)
+- 🎨 **Portfolio - Landing Page**: A responsive personal portfolio built with HTML, SASS, and Vite. [Repository](https://github.com/jaickerlozano/proyecto03_responsive_portfolio)
+- 🖼️ **Modern Art Gallery**: A clean and minimalistic gallery layout showcasing modern art using HTML and CSS. [Repository](https://github.com/jaickerlozano/proyecto02_modern_art_gallery)
+- 📚 **E-Learning Landing Page**: A landing page for an online education platform, built with HTML and CSS. [Repository](https://github.com/jaickerlozano/Proyecto01_responsive_elearning)
+- 💆‍♀️ **Spa & Beauty Landing Page**: A stylish landing page for a spa and beauty business using responsive design. [Repository](https://github.com/jaickerlozano/proyecto06_spa_and_beauty)
+- 🧭 **Header Gathsession Landing Page**: A bold and modern header-focused landing page design. [Repository](https://github.com/jaickerlozano/proyecto10_header_gathsession_css)
 ---
 
 ## 📚 Skills
