@@ -54,7 +54,7 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 
 ## 📚 Skills
 
-- **Languages**: Python, HTML, CSS (learning), JavaScript (in progress).
+- **Languages**: Python, HTML, CSS, JavaScript (Learning).
 - **Databases**: MySQL.
 - **Version Control**: Git and GitHub.
 - **Others**: Programming logic, basic data structures.
