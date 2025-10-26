@@ -66,7 +66,7 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 ## 🌟 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaicker-lozano)
-- 📂 [Portfolio](https://github.com/jaickerlozano?tab=repositories) *(under construction)*
+- 📂 [Portfolio](https://jaickerlozano.github.io/portfolio-jaicker/)
 - 🧑‍💻 [GitHub](https://github.com/jaickerlozano)
 
 ---
