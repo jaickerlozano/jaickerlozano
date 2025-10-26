@@ -1,6 +1,6 @@
  # 👋 Hi!! I'm Jaicker Lozano 👨🏻‍💻
 
-![My Banner](https://github.com/jaickerlozano/jaickerlozano/blob/main/banner-perfil-github.png?raw=true)
+![My Banner](https://github.com/jaickerlozano/jaickerlozano/blob/main/fondo-perfil-github.png)
 
 I'm a **Full Stack Developer in training** with a passion for technology and problem-solving. Currently, I'm building my career in software development, focusing on **frontend development** and **database management**. My projects blend creativity and logic to deliver useful and innovative solutions.
 
