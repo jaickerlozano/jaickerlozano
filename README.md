@@ -38,28 +38,31 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 
 ### 🐍 Python Projects
 
-- 📝 **Text Editor**: A functional editor built with Python. [Repository](https://github.com/jaickerlozano/editor_de_texto)
-- 🗣️ **Text-to-Speech**: An app that converts text to audio using Python libraries. [Repository](https://github.com/jaickerlozano/texto_a_voz)
-- 📊 **Database Management**: Advanced MySQL projects for efficient data handling. [Repository](https://github.com/jaickerlozano/Ejercicios_practica_2_sql)
+- 📝 **Text Editor**: A functional editor built with Python. 👉 [Repository](https://github.com/jaickerlozano/editor_de_texto)
+- 🗣️ **Text-to-Speech**: An app that converts text to audio using Python libraries. 👉 [Repository](https://github.com/jaickerlozano/texto_a_voz)
+- 📊 **Database Management**: Advanced MySQL projects for efficient data handling. 👉 [Repository](https://github.com/jaickerlozano/Ejercicios_practica_2_sql)
 
 ### 🎨 Frontend Projects
 
-- 💻 **Personal Portfolio**: A modern and fully responsive portfolio developed with HTML, SASS, and JavaScript to showcase my work as a Frontend Developer. [Repository](https://github.com/jaickerlozano/portfolio-jaicker)
-- 🎨 **Portfolio - Landing Page**: A responsive personal portfolio built with HTML, SASS, and Vite. [Repository](https://github.com/jaickerlozano/proyecto03_responsive_portfolio)
-- 🎮 **Memory Game**: An interactive memory card game built with Vite and Vanilla JavaScript to practice DOM manipulation and game logic. [Repository](https://github.com/jaickerlozano/primer-proyecto-js-juego-de-memoria)
-- 🌐 **Conquer Blocks Landing Page**: A structured and styled webpage built with HTML and SASS for the Conquer Blocks academy. [Repository](https://github.com/jaickerlozano/proyecto_elaboracion_pagina_html)
-- 🖼️ **Modern Art Gallery**: A clean and minimalistic gallery layout showcasing modern art using HTML and SASS. [Repository](https://github.com/jaickerlozano/modern-art-gallery)
-- 📚 **E-Learning Landing Page**: A landing page for an online education platform, built with HTML and CSS. [Repository](https://github.com/jaickerlozano/e-learning-landing-page)
-- 💆‍♀️ **Spa & Beauty Landing Page**: A stylish landing page for a spa and beauty business using responsive design. [Repository](https://github.com/jaickerlozano/spa-beauty-landing-page)
-- 🧭 **Header Gathsession Landing Page**: A bold and modern header-focused landing page design. [Repository](https://github.com/jaickerlozano/header-gathsession-landing-page)
+- 💻 **Personal Portfolio**: A modern and fully responsive portfolio developed with HTML, SASS, and JavaScript to showcase my work as a Frontend Developer. 👉 [Repository](https://github.com/jaickerlozano/portfolio-jaicker)
+- 🎨 **Portfolio - Landing Page**: A responsive personal portfolio built with HTML, SASS, and Vite. 👉 [Repository](https://github.com/jaickerlozano/proyecto03_responsive_portfolio)
+- 🎮 **Memory Game**: An interactive memory card game built with Vite and Vanilla JavaScript to practice DOM manipulation and game logic. 👉 [Repository](https://github.com/jaickerlozano/primer-proyecto-js-juego-de-memoria)
+- ❌⭕ Tres en Raya (Tic Tac Toe) — Game built using HTML, SASS, and JavaScript to practice DOM manipulation, modular logic, and event management.
+👉 [Repository](https://github.com/jaickerlozano/juego-tres-en-raya)
+- 🔢 Sudoku Game — Interactive Sudoku built with HTML, CSS y JavaScript. Features grid generation, difficulty modes, validation, responsive design, and modular code organization. 👉 [Repository](https://github.com/jaickerlozano/proyecto-js-sudoku-solver)
+- 🌐 **Conquer Blocks Landing Page**: A structured and styled webpage built with HTML and SASS for the Conquer Blocks academy. 👉 [Repository](https://github.com/jaickerlozano/proyecto_elaboracion_pagina_html)
+- 🖼️ **Modern Art Gallery**: A clean and minimalistic gallery layout showcasing modern art using HTML and SASS. 👉 [Repository](https://github.com/jaickerlozano/modern-art-gallery)
+- 📚 **E-Learning Landing Page**: A landing page for an online education platform, built with HTML and CSS. 👉 [Repository](https://github.com/jaickerlozano/e-learning-landing-page)
+- 💆‍♀️ **Spa & Beauty Landing Page**: A stylish landing page for a spa and beauty business using responsive design. 👉 [Repository](https://github.com/jaickerlozano/spa-beauty-landing-page)
+- 🧭 **Header Gathsession Landing Page**: A bold and modern header-focused landing page design. 👉 [Repository](https://github.com/jaickerlozano/header-gathsession-landing-page)
 ---
 
 ## 📚 Skills
 
-- **Languages**: Python, HTML, CSS, JavaScript (Learning).
+- **Languages**: Python, HTML, CSS, JavaScript (Learning TypeScrip).
 - **Databases**: MySQL.
 - **Version Control**: Git and GitHub.
-- **Others**: Programming logic, basic data structures.
+- **Others**: Programming logic, data structures, frontend development fundamentals.
 
 ---
 
