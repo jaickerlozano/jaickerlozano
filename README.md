@@ -29,8 +29,8 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 - [x] [![HTML](https://img.shields.io/badge/Finished%20-%20%23E34F26?style=flat&logo=html5&label=HTML&labelColor=black&color=%23E34F26)]()
 - [x] [![CSS](https://img.shields.io/badge/Finished%20-%20%231572B6?style=flat&logo=css&label=CSS&labelColor=black&color=%231572B6)]()
 - [x] [![JavaScript](https://img.shields.io/badge/Finished%20%20-%20%23F7DF1E?style=flat&logo=javascript&label=JavaScript&labelColor=black&color=%23F7DF1E)]()
-- [ ] [![Static Badge](https://img.shields.io/badge/InProgress%20-%20%233178C6?style=flat&logo=typescript&label=TypeScript&labelColor=black&color=%233178C6)]()
-- [ ] [![Static Badge](https://img.shields.io/badge/Soon%20-%20%2361DAFB?style=flat&logo=react&label=ReactJS&labelColor=black&color=%2361DAFB)]()
+- [x] [![Static Badge](https://img.shields.io/badge/Finished%20-%20%233178C6?style=flat&logo=typescript&label=TypeScript&labelColor=black&color=%233178C6)]()
+- [ ] [![Static Badge](https://img.shields.io/badge/InProgress%20-%20%2361DAFB?style=flat&logo=react&label=ReactJS&labelColor=black&color=%2361DAFB)]()
 
 ---
 
