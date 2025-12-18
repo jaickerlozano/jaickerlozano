@@ -9,60 +9,78 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
  ## 🚀About me
 
 - 🎓 Industrial Process Engineer transitioning into software development.
-- 🌱 Currently learning **CSS** and **JavaScript** as part of my training at **Conquer Blocks**.
-- 💻 Experience in:
-  - **Python**: Applications like text editors and text-to-speech systems.
-  - **Databases**: Advanced management with **MySQL**.
-  - **Frontend**: Structuring information with **HTML**.
-- 🔍 Next goal: Becoming a strong **frontend developer** and mastering **React.js**.
+- 💻 Frontend-oriented developer with hands-on experience building real projects.
+- ⚛️ Currently learning **React**, working with hooks like `useState` and `useEffect`.
+- 🧠 Strong focus on logic, problem-solving, and code organization.
+- 🎯 Goal: Grow as a **Frontend Developer Junior** and contribute to real-world projects.
 
 ---
 
-## 📔 Backend Technologies
-
-- [x] [![Python](https://img.shields.io/badge/Finished%20-%20green?style=flat&logo=python&label=Python&labelColor=black&color=blue)]()
-- [x] [![MySQL](https://img.shields.io/badge/Finished%20-%20%234479A1?style=flat&logo=mysql&label=MySQL&labelColor=black&color=%234479A1)]()
-- [ ] [![Django](https://img.shields.io/badge/Soon%20-%20%23092E20?style=flat&logo=django&label=Django&labelColor=black&color=%23092E20)]()
-
 ## 💻 Frontend Technologies
 
-- [x] [![HTML](https://img.shields.io/badge/Finished%20-%20%23E34F26?style=flat&logo=html5&label=HTML&labelColor=black&color=%23E34F26)]()
-- [x] [![CSS](https://img.shields.io/badge/Finished%20-%20%231572B6?style=flat&logo=css&label=CSS&labelColor=black&color=%231572B6)]()
-- [x] [![JavaScript](https://img.shields.io/badge/Finished%20%20-%20%23F7DF1E?style=flat&logo=javascript&label=JavaScript&labelColor=black&color=%23F7DF1E)]()
-- [x] [![Static Badge](https://img.shields.io/badge/Finished%20-%20%233178C6?style=flat&logo=typescript&label=TypeScript&labelColor=black&color=%233178C6)]()
-- [ ] [![Static Badge](https://img.shields.io/badge/InProgress%20-%20%2361DAFB?style=flat&logo=react&label=ReactJS&labelColor=black&color=%2361DAFB)]()
+- [x] [![HTML](https://img.shields.io/badge/(semantic,structure)%20-%20E34F26?style=flat&logo=html5&label=HTML5&labelColor=black&color=E34F26)]()
+- [x] [![CSS](https://img.shields.io/badge/(styles,responsive,SASS)%20-%201572B6?style=flat&logo=css3&label=CSS3&labelColor=black&color=1572B6)]()
+- [x] [![JavaScript](https://img.shields.io/badge/(ES6+,DOM,events,OOP)%20-%20F7DF1E?style=flat&logo=javascript&label=JavaScript&labelColor=black&color=F7DF1E)]()
+- [x] [![TypeScript](https://img.shields.io/badge/(typed%20JS,interfaces)%20-%203178C6?style=flat&logo=typescript&label=TypeScript&labelColor=black&color=3178C6)]()
+- [ ] [![React](https://img.shields.io/badge/(hooks,components)%20-%2061DAFB?style=flat&logo=react&label=React&labelColor=black&color=61DAFB)]()
+
+## 🛠️ Other Technologies
+
+- [x] [![Python](https://img.shields.io/badge/(scripts,utilities)%20-%203776AB?style=flat&logo=python&label=Python&labelColor=black&color=3776AB)]()
+- [x] [![MySQL](https://img.shields.io/badge/(queries,relational%20DB)%20-%204479A1?style=flat&logo=mysql&label=MySQL&labelColor=black&color=4479A1)]()
+- [x] [![Git & GitHub](https://img.shields.io/badge/(version%20control,workflow)%20-%20F05032?style=flat&logo=git&label=Git%20%26%20GitHub&labelColor=black&color=F05032)]()
+- [x] [![Vite](https://img.shields.io/badge/(dev%20server,build)%20-%20646CFF?style=flat&logo=vite&label=Vite&labelColor=black&color=646CFF)]()
+- [x] [![VSCode](https://img.shields.io/badge/(editor,extensions)%20-%20007ACC?style=flat&logo=visualstudiocode&label=VSCode&labelColor=black&color=007ACC)]()
+- [ ] [![Django](https://img.shields.io/badge/Soon%20-%20%23092E20?style=flat&logo=django&label=Django&labelColor=black&color=%23092E20)]()
 
 ---
 
 ## 💼 Featured Projects
 
-### 🐍 Python Projects
-
-- 📝 **Text Editor**: A functional editor built with Python. 👉 [Repository](https://github.com/jaickerlozano/editor_de_texto)
-- 🗣️ **Text-to-Speech**: An app that converts text to audio using Python libraries. 👉 [Repository](https://github.com/jaickerlozano/texto_a_voz)
-- 📊 **Database Management**: Advanced MySQL projects for efficient data handling. 👉 [Repository](https://github.com/jaickerlozano/Ejercicios_practica_2_sql)
-
 ### 🎨 Frontend Projects
 
-- 💻 **Personal Portfolio**: A modern and fully responsive portfolio developed with HTML, SASS, and JavaScript to showcase my work as a Frontend Developer. 👉 [Repository](https://github.com/jaickerlozano/portfolio-jaicker)
-- 🎨 **Portfolio - Landing Page**: A responsive personal portfolio built with HTML, SASS, and Vite. 👉 [Repository](https://github.com/jaickerlozano/proyecto03_responsive_portfolio)
-- 🎮 **Memory Game**: An interactive memory card game built with Vite and Vanilla JavaScript to practice DOM manipulation and game logic. 👉 [Repository](https://github.com/jaickerlozano/primer-proyecto-js-juego-de-memoria)
-- ❌⭕ Tres en Raya (Tic Tac Toe) — Game built using HTML, SASS, and JavaScript to practice DOM manipulation, modular logic, and event management.
-👉 [Repository](https://github.com/jaickerlozano/juego-tres-en-raya)
-- 🔢 Sudoku Game — Interactive Sudoku built with HTML, CSS y JavaScript. Features grid generation, difficulty modes, validation, responsive design, and modular code organization. 👉 [Repository](https://github.com/jaickerlozano/proyecto-js-sudoku-solver)
-- 🌐 **Conquer Blocks Landing Page**: A structured and styled webpage built with HTML and SASS for the Conquer Blocks academy. 👉 [Repository](https://github.com/jaickerlozano/proyecto_elaboracion_pagina_html)
-- 🖼️ **Modern Art Gallery**: A clean and minimalistic gallery layout showcasing modern art using HTML and SASS. 👉 [Repository](https://github.com/jaickerlozano/modern-art-gallery)
-- 📚 **E-Learning Landing Page**: A landing page for an online education platform, built with HTML and CSS. 👉 [Repository](https://github.com/jaickerlozano/e-learning-landing-page)
-- 💆‍♀️ **Spa & Beauty Landing Page**: A stylish landing page for a spa and beauty business using responsive design. 👉 [Repository](https://github.com/jaickerlozano/spa-beauty-landing-page)
-- 🧭 **Header Gathsession Landing Page**: A bold and modern header-focused landing page design. 👉 [Repository](https://github.com/jaickerlozano/header-gathsession-landing-page)
+- 💻 **Personal Portfolio**  
+  Responsive portfolio developed with HTML, SASS, and JavaScript.  
+  👉 https://github.com/jaickerlozano/portfolio-jaicker
+
+- ✏️ **Editor-TS**  
+  Text editor built with **TypeScript and Vite**, focused on DOM manipulation, modular code, and clean logic.  
+  👉 https://github.com/jaickerlozano/editor-ts
+
+- 🎮 **Memory Game**  
+  Interactive game built with Vanilla JavaScript to practice logic and DOM handling.  
+  👉 https://github.com/jaickerlozano/primer-proyecto-js-juego-de-memoria
+
+- ❌⭕ **Tres en Raya (Tic Tac Toe)**  
+  Game built using HTML, SASS, and JavaScript with modular logic and event management.  
+  👉 https://github.com/jaickerlozano/juego-tres-en-raya
+
+- 🔢 **Sudoku Game**  
+  Interactive Sudoku with validation, difficulty modes, and responsive design.  
+  👉 https://github.com/jaickerlozano/proyecto-js-sudoku-solver
+
+### 🐍 Python Projects
+
+- 📝 **Text Editor**
+  A functional editor built with Python.
+  👉 [Repository](https://github.com/jaickerlozano/editor_de_texto)
+  
+- 🗣️ **Text-to-Speech**
+  An app that converts text to audio using Python libraries.
+  👉 [Repository](https://github.com/jaickerlozano/texto_a_voz)
+  
+- 📊 **Database Management**
+  Advanced MySQL projects for efficient data handling.
+  👉 [Repository](https://github.com/jaickerlozano/Ejercicios_practica_2_sql)
+
 ---
 
 ## 📚 Skills
 
-- **Languages**: Python, HTML, CSS, JavaScript (Learning TypeScrip).
-- **Databases**: MySQL.
-- **Version Control**: Git and GitHub.
-- **Others**: Programming logic, data structures, frontend development fundamentals.
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Python  
+- **Frontend**: DOM manipulation, events, responsive design, modular code  
+- **Tools**: Git, GitHub, Vite, VS Code  
+- **Databases**: MySQL
 
 ---
 
