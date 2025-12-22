@@ -22,7 +22,7 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 - [x] [![CSS](https://img.shields.io/badge/(styles,responsive,SASS)%20-%201572B6?style=flat&logo=css3&label=CSS3&labelColor=black&color=1572B6)]()
 - [x] [![JavaScript](https://img.shields.io/badge/(ES6+,DOM,events,OOP)%20-%20F7DF1E?style=flat&logo=javascript&label=JavaScript&labelColor=black&color=F7DF1E)]()
 - [x] [![TypeScript](https://img.shields.io/badge/(typed%20JS,interfaces)%20-%203178C6?style=flat&logo=typescript&label=TypeScript&labelColor=black&color=3178C6)]()
-- [ ] [![React](https://img.shields.io/badge/(hooks,components)%20-%2061DAFB?style=flat&logo=react&label=React&labelColor=black&color=61DAFB)]()
+- [x] [![React](https://img.shields.io/badge/(hooks,components)%20-%2061DAFB?style=flat&logo=react&label=React&labelColor=black&color=61DAFB)]()
 
 ## 🛠️ Other Technologies
 
