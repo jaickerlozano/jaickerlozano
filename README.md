@@ -56,8 +56,8 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
   👉 https://github.com/jaickerlozano/juego-tres-en-raya
 
 - 🔢 **Sudoku Game**  
-  Interactive Sudoku with validation, difficulty modes, and responsive design.  
-  👉 https://github.com/jaickerlozano/proyecto-js-sudoku-solver
+  Interactive Sudoku with validation, difficulty modes, and responsive design using ReactJS and Tailwind.  
+  👉 https://jaickerlozano.github.io/sudoku-solver-reactjs
 
 ### 🐍 Python Projects
 
