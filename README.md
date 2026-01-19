@@ -47,6 +47,10 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
   Text editor built with **TypeScript and Vite**, focused on DOM manipulation, modular code, and clean logic.  
   👉 https://github.com/jaickerlozano/editor-ts
 
+- 🧪 **Rick & Morty Multiverse Explorer Rick & Morty Multiverse Explorer**  
+  A modern, responsive web application (SPA) that lets you explore the Rick and Morty universe. This project uses the official API to display characters, locations, and episodes, offering an immersive experience with Glassmorphism design and data persistence. 
+  👉 https://rickandmorty-api-react-iota.vercel.app
+
 - 🎮 **Memory Game**  
   Interactive game built with Vanilla JavaScript to practice logic and DOM handling.  
   👉 https://github.com/jaickerlozano/primer-proyecto-js-juego-de-memoria
