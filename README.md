@@ -52,7 +52,7 @@ I'm a **Full Stack Developer** and **Industrial Process Engineer** with a passio
   👉 [Live Demo](https://jaickerlozano.github.io/sudoku-solver-reactjs)
 
 - 💻 **Personal Portfolio**  Responsive portfolio developed with HTML, SASS, and JavaScript.  
-  👉 https://github.com/jaickerlozano/portfolio-jaicker
+  👉 [Repository](https://github.com/jaickerlozano/portfolio-jaicker) - [Live Demo](https://jaickerlozano.github.io/portfolio-jaicker/)
 
 ---
 
