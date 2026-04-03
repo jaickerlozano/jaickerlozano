@@ -31,7 +31,7 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 - [x] [![Git & GitHub](https://img.shields.io/badge/(version%20control,workflow)%20-%20F05032?style=flat&logo=git&label=Git%20%26%20GitHub&labelColor=black&color=F05032)]()
 - [x] [![Vite](https://img.shields.io/badge/(dev%20server,build)%20-%20646CFF?style=flat&logo=vite&label=Vite&labelColor=black&color=646CFF)]()
 - [x] [![VSCode](https://img.shields.io/badge/(editor,extensions)%20-%20007ACC?style=flat&logo=visualstudiocode&label=VSCode&labelColor=black&color=007ACC)]()
-- [ ] [![Django](https://img.shields.io/badge/Soon%20-%20%23092E20?style=flat&logo=django&label=Django&labelColor=black&color=%23092E20)]()
+- [x] [![Django](https://img.shields.io/badge/(DRF)%20-%20%23092E20?style=flat&logo=django&label=Django&labelColor=black&color=%23092E20)]()
 
 ---
 
