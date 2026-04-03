@@ -2,89 +2,67 @@
 
 ![My Banner](https://github.com/jaickerlozano/jaickerlozano/blob/main/fondo-perfil-github.png)
 
-I'm a **Full Stack Developer in training** with a passion for technology and problem-solving. Currently, I'm building my career in software development, focusing on **frontend development** and **database management**. My projects blend creativity and logic to deliver useful and innovative solutions.
+I'm a **Full Stack Developer** and **Industrial Process Engineer** with a passion for efficiency and scalable software. I specialize in building robust web applications using **Django** and **React**, leveraging **AI-driven development (Agents & Sub-agents)** to deliver high-quality code and innovative solutions.
 
 ---
 
- ## 🚀About me
+## 🚀 About me
 
-- 🎓 Industrial Process Engineer transitioning into software development.
-- 💻 Frontend-oriented developer with hands-on experience building real projects.
-- ⚛️ Currently learning **React**, working with hooks like `useState` and `useEffect`.
-- 🧠 Strong focus on logic, problem-solving, and code organization.
-- 🎯 Goal: Grow as a **Frontend Developer Junior** and contribute to real-world projects.
+- 🎓 **Industrial Process Engineer** transitioning into high-impact software development.
+- ⚙️ **Full Stack Focus:** Building end-to-end applications with **Python/Django** and **React/TypeScript**.
+- 🤖 **AI-Driven:** I integrate **AI Agents** into my workflow to optimize architecture and accelerate delivery.
+- 🧠 **Problem Solver:** Strong logic foundation developed through engineering and active practice in platforms like Codewars.
+- 🎯 **Goal:** Build scalable products and contribute to high-performance development teams.
 
 ---
 
-## 💻 Frontend Technologies
+## 💻 Tech Stack
 
-- [x] [![HTML](https://img.shields.io/badge/(semantic,structure)%20-%20E34F26?style=flat&logo=html5&label=HTML5&labelColor=black&color=E34F26)]()
-- [x] [![CSS](https://img.shields.io/badge/(styles,responsive,SASS)%20-%201572B6?style=flat&logo=css3&label=CSS3&labelColor=black&color=1572B6)]()
-- [x] [![JavaScript](https://img.shields.io/badge/(ES6+,DOM,events,OOP)%20-%20F7DF1E?style=flat&logo=javascript&label=JavaScript&labelColor=black&color=F7DF1E)]()
-- [x] [![TypeScript](https://img.shields.io/badge/(typed%20JS,interfaces)%20-%203178C6?style=flat&logo=typescript&label=TypeScript&labelColor=black&color=3178C6)]()
-- [x] [![React](https://img.shields.io/badge/(hooks,components)%20-%2061DAFB?style=flat&logo=react&label=React&labelColor=black&color=61DAFB)]()
+### Frontend & Backend
+- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 🛠️ Other Technologies
-
-- [x] [![Python](https://img.shields.io/badge/(scripts,utilities)%20-%203776AB?style=flat&logo=python&label=Python&labelColor=black&color=3776AB)]()
-- [x] [![MySQL](https://img.shields.io/badge/(queries,relational%20DB)%20-%204479A1?style=flat&logo=mysql&label=MySQL&labelColor=black&color=4479A1)]()
-- [x] [![Git & GitHub](https://img.shields.io/badge/(version%20control,workflow)%20-%20F05032?style=flat&logo=git&label=Git%20%26%20GitHub&labelColor=black&color=F05032)]()
-- [x] [![Vite](https://img.shields.io/badge/(dev%20server,build)%20-%20646CFF?style=flat&logo=vite&label=Vite&labelColor=black&color=646CFF)]()
-- [x] [![VSCode](https://img.shields.io/badge/(editor,extensions)%20-%20007ACC?style=flat&logo=visualstudiocode&label=VSCode&labelColor=black&color=007ACC)]()
-- [x] [![Django](https://img.shields.io/badge/(DRF)%20-%20%23092E20?style=flat&logo=django&label=Django&labelColor=black&color=%23092E20)]()
+### AI & Tools
+- ![AI Agents](https://img.shields.io/badge/AI_Driven_Development-FF6F61?style=flat&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
 
 ## 💼 Featured Projects
 
-### 🎨 Frontend Projects
+### 🐍 Backend & Full Stack (Django)
 
-- 💻 **Personal Portfolio**  
-  Responsive portfolio developed with HTML, SASS, and JavaScript.  
+- 📸 **Instagram Clone** A full-featured social network clone with user authentication, media handling, and complex model relationships.  
+  👉 [Repository](https://github.com/jaickerlozano/instagram-django)
+
+- 📚 **Library Management System** An efficient system for managing book loans and inventory, featuring a customized Django Admin and robust ORM queries.  
+  👉 [Repository](https://github.com/jaickerlozano/django-library-management-system)
+
+- ⚙️ **Django Mastery Hub** Core repository for Django architectures, Class-Based Views (CBV), and professional backend structures.  
+  👉 [Repository](https://github.com/jaickerlozano/conquer-blocks-django)
+
+### 🎨 Frontend Projects (React & TS)
+
+- 🧪 **Rick & Morty Multiverse Explorer** Responsive SPA with Glassmorphism design, advanced filtering, and data persistence using React and API REST.  
+  👉 [Live Demo](https://rickandmorty-api-react-iota.vercel.app)
+
+- ✏️ **Editor-TS** Technical text editor built with **TypeScript**, focusing on modularity and strict DOM manipulation.  
+  👉 [Repository](https://github.com/jaickerlozano/editor-ts)
+
+- 🔢 **Sudoku Solver** High-logic React application for real-time Sudoku validation and resolution.  
+  👉 [Live Demo](https://jaickerlozano.github.io/sudoku-solver-reactjs)
+
+- 💻 **Personal Portfolio**  Responsive portfolio developed with HTML, SASS, and JavaScript.  
   👉 https://github.com/jaickerlozano/portfolio-jaicker
-
-- ✏️ **Editor-TS**  
-  Text editor built with **TypeScript and Vite**, focused on DOM manipulation, modular code, and clean logic.  
-  👉 https://github.com/jaickerlozano/editor-ts
-
-- 🧪 **Rick & Morty Multiverse Explorer Rick & Morty Multiverse Explorer**  
-  A modern, responsive web application (SPA) that lets you explore the Rick and Morty universe. This project uses the official API to display characters, locations, and episodes, offering an immersive experience with Glassmorphism design and data persistence. 
-  👉 https://rickandmorty-api-react-iota.vercel.app
-
-- 🎮 **Memory Game**  
-  Interactive game built with Vanilla JavaScript to practice logic and DOM handling.  
-  👉 https://github.com/jaickerlozano/primer-proyecto-js-juego-de-memoria
-
-- ❌⭕ **Tres en Raya (Tic Tac Toe)**  
-  Game built using HTML, SASS, and JavaScript with modular logic and event management.  
-  👉 https://github.com/jaickerlozano/juego-tres-en-raya
-
-- 🔢 **Sudoku Game**  
-  Interactive Sudoku with validation, difficulty modes, and responsive design using ReactJS and Tailwind.  
-  👉 https://jaickerlozano.github.io/sudoku-solver-reactjs
-
-### 🐍 Python Projects
-
-- 📝 **Text Editor**
-  A functional editor built with Python.
-  👉 [Repository](https://github.com/jaickerlozano/editor_de_texto)
-  
-- 🗣️ **Text-to-Speech**
-  An app that converts text to audio using Python libraries.
-  👉 [Repository](https://github.com/jaickerlozano/texto_a_voz)
-  
-- 📊 **Database Management**
-  Advanced MySQL projects for efficient data handling.
-  👉 [Repository](https://github.com/jaickerlozano/Ejercicios_practica_2_sql)
 
 ---
 
-## 📚 Skills
+## 📚 Skills & Focus
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS, Python  
-- **Frontend**: DOM manipulation, events, responsive design, modular code  
-- **Tools**: Git, GitHub, Vite, VS Code  
-- **Databases**: MySQL
+- **Languages**: Python, TypeScript, JavaScript (ES6+), SQL.
+- **Backend Mastery**: Django REST Framework, MVC Architecture, Database Design.
+- **Frontend Mastery**: React Hooks, State Management, Responsive Design (Tailwind/SASS).
+- **Efficiency**: AI-Assisted Coding, Process Optimization, Agile Methodologies.
+- **Tools**: Git, GitHub, Vite, VS Code, Figma.
 
 ---
 
@@ -96,7 +74,7 @@ I'm a **Full Stack Developer in training** with a passion for technology and pro
 
 ---
 
-_"Learning, building, and sharing is the path to grow as a developer."_
+_"Harnessing the power of Code and AI to build the future of efficiency."_
 <!---
 jaickerlozano/jaickerlozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
