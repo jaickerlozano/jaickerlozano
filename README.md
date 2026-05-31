@@ -31,6 +31,12 @@ I'm a **Full Stack Developer** and **Industrial Process Engineer** with a passio
 
 ### 🐍 Backend & Full Stack (Django)
 
+- 🏢 **Booking Manager** Full-featured space reservation system for residential complexes. Role-based access (Admin/Resident), real-time AJAX search, email notifications, Cloudinary integration, and deployed on Render with PostgreSQL.  
+  👉 [Repository](https://github.com/jaickerlozano/booking_manager_django) - [Live Demo](https://booking-manager-django.onrender.com/)
+
+- 📦 **Inventory System** Full-stack inventory management with Django REST Framework + React/TypeScript. Real-time stock tracking, 3-level alert system, row-level concurrency protection (`select_for_update`), and Swagger API docs.  
+  👉 [Repository](https://github.com/jaickerlozano/inventory_sistem_fullstack) - [Live Demo](https://inventory-sistem-full-stack.onrender.com)
+
 - 📸 **Instagram Clone** A full-featured social network clone with user authentication, media handling, and complex model relationships.  
   👉 [Repository](https://github.com/jaickerlozano/instagram-django)
 
