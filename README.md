@@ -68,4 +68,4 @@ Private SaaS products in active development for real clients. Source code is pri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaicker-rafael-lozano-flores-970197264)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://jaickerlozano.github.io/portfolio-jaicker/)
-[![Email](https://img.shields.io/badge/jaicker@jaicker.dev-6366F1?style=flat&logo=maildotru&logoColor=white)](mailto:jaicker@jaicker.dev)
+[![Email](https://img.shields.io/badge/hi@jaicker.dev-6366F1?style=flat&logo=maildotru&logoColor=white)](mailto:hi@jaicker.dev)
