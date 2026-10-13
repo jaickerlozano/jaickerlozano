@@ -1,87 +1,71 @@
- # 👋 Hi!! I'm Jaicker Lozano 👨🏻‍💻
+# 👋 Hi! I'm Jaicker Lozano
 
-![My Banner](https://github.com/jaickerlozano/jaickerlozano/blob/main/fondo-perfil-github.png)
+![Banner](./banner.png)
 
-I'm a **Full Stack Developer** and **Industrial Process Engineer** with a passion for efficiency and scalable software. I specialize in building robust web applications using **Django** and **React**, leveraging **AI-driven development (Agents & Sub-agents)** to deliver high-quality code and innovative solutions.
-
----
-
-## 🚀 About me
-
-- 🎓 **Industrial Process Engineer** transitioning into high-impact software development.
-- ⚙️ **Full Stack Focus:** Building end-to-end applications with **Python/Django** and **React/TypeScript**.
-- 🤖 **AI-Driven:** I integrate **AI Agents** into my workflow to optimize architecture and accelerate delivery.
-- 🧠 **Problem Solver:** Strong logic foundation developed through engineering and active practice in platforms like Codewars.
-- 🎯 **Goal:** Build scalable products and contribute to high-performance development teams.
+**Software Engineer** focused on full stack development (Django · React · TypeScript) and **Industrial Process Engineer** based in Chile 🇨🇱.
+I build software that solves real business problems — from e-commerce to financial back-office automation — combining an engineer's process mindset with **AI-driven development** (agents & sub-agents) to ship clean, tested, maintainable code.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Currently building
 
-### Frontend & Backend
-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Private SaaS products in active development for real clients. Source code is private; happy to walk through the architecture in an interview.
 
-### AI & Tools
-- ![AI Agents](https://img.shields.io/badge/AI_Driven_Development-FF6F61?style=flat&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+- 🛒 **E-commerce SaaS** — 🚧 *In development*
+  Online store platform for Chilean businesses: product catalog, cart, shipping, checkout and order tracking.
+  `Django REST Framework` · `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `PostgreSQL` · `Docker`
+
+- 🏦 **Bank Reconciliation SaaS** — 🚧 *In development*
+  Automates monthly bank reconciliations for property management companies: parses bank statements from Chilean banks, matches transactions against accounting records and generates PDF/Excel reports.
+  `Django` · `React` · `TypeScript` · `PostgreSQL` · `Docker`
 
 ---
 
 ## 💼 Featured Projects
 
-### 🐍 Backend & Full Stack (Django)
+- 📦 **Inventory System** — Full-stack inventory management with Django REST Framework + React/TypeScript. Real-time stock tracking, 3-level alert system, row-level concurrency protection (`select_for_update`) and Swagger API docs.
+  👉 [Repository](https://github.com/jaickerlozano/inventory_sistem_full_stack) · [Live Demo](https://inventory-sistem-full-stack.onrender.com)
 
-- 🏢 **Booking Manager** Full-featured space reservation system for residential complexes. Role-based access (Admin/Resident), real-time AJAX search, email notifications, Cloudinary integration, and deployed on Render with PostgreSQL.  
-  👉 [Repository](https://github.com/jaickerlozano/booking_manager_django) - [Live Demo](https://booking-manager-django.onrender.com/)
+- 🏢 **Booking Manager** — Space reservation system for residential complexes. Role-based access (Admin/Resident), real-time AJAX search, email notifications, Cloudinary integration, deployed on Render with PostgreSQL.
+  👉 [Repository](https://github.com/jaickerlozano/booking_manager_django) · [Live Demo](https://booking-manager-django.onrender.com/)
 
-- 📦 **Inventory System** Full-stack inventory management with Django REST Framework + React/TypeScript. Real-time stock tracking, 3-level alert system, row-level concurrency protection (`select_for_update`), and Swagger API docs.  
-  👉 [Repository](https://github.com/jaickerlozano/inventory_sistem_fullstack) - [Live Demo](https://inventory-sistem-full-stack.onrender.com)
+- 💻 **Personal Portfolio** — My portfolio with all the projects I've built.
+  👉 [Repository](https://github.com/jaickerlozano/portfolio-jaicker) · [Live Demo](https://jaickerlozano.github.io/portfolio-jaicker/)
 
-- 📸 **Instagram Clone** A full-featured social network clone with user authentication, media handling, and complex model relationships.  
-  👉 [Repository](https://github.com/jaickerlozano/instagram-django)
+<details>
+<summary>📚 More projects (learning path)</summary>
 
-- 📚 **Library Management System** An efficient system for managing book loans and inventory, featuring a customized Django Admin and robust ORM queries.  
-  👉 [Repository](https://github.com/jaickerlozano/django-library-management-system)
+- 📸 [Instagram Clone](https://github.com/jaickerlozano/instagram-django) — Django social network with auth, media handling and complex model relationships.
+- 📚 [Library Management System](https://github.com/jaickerlozano/django-library-management-system) — Class-Based Views, custom ModelForms and a customized Django Admin.
+- ⚙️ [Django Mastery Hub](https://github.com/jaickerlozano/conquer-blocks-django) — Django architectures, CBVs and backend structure.
+- 🧪 [Rick & Morty Explorer](https://rickandmorty-api-react-iota.vercel.app) — React SPA with advanced filtering and persistence.
+- ✏️ [Editor-TS](https://github.com/jaickerlozano/editor-ts) — Text editor in strict TypeScript with modular DOM manipulation.
+- 🔢 [Sudoku Solver](https://jaickerlozano.github.io/sudoku-solver-reactjs) — Real-time Sudoku validation and solving in React.
 
-- ⚙️ **Django Mastery Hub** Core repository for Django architectures, Class-Based Views (CBV), and professional backend structures.  
-  👉 [Repository](https://github.com/jaickerlozano/conquer-blocks-django)
-
-### 🎨 Frontend Projects (React & TS)
-
-- 🧪 **Rick & Morty Multiverse Explorer** Responsive SPA with Glassmorphism design, advanced filtering, and data persistence using React and API REST.  
-  👉 [Live Demo](https://rickandmorty-api-react-iota.vercel.app)
-
-- ✏️ **Editor-TS** Technical text editor built with **TypeScript**, focusing on modularity and strict DOM manipulation.  
-  👉 [Repository](https://github.com/jaickerlozano/editor-ts)
-
-- 🔢 **Sudoku Solver** High-logic React application for real-time Sudoku validation and resolution.  
-  👉 [Live Demo](https://jaickerlozano.github.io/sudoku-solver-reactjs)
-
-- 💻 **Personal Portfolio**  Responsive portfolio developed with HTML, SASS, and JavaScript.  
-  👉 [Repository](https://github.com/jaickerlozano/portfolio-jaicker) - [Live Demo](https://jaickerlozano.github.io/portfolio-jaicker/)
+</details>
 
 ---
 
-## 📚 Skills & Focus
+## 💻 Tech Stack
 
-- **Languages**: Python, TypeScript, JavaScript (ES6+), SQL.
-- **Backend Mastery**: Django REST Framework, MVC Architecture, Database Design.
-- **Frontend Mastery**: React Hooks, State Management, Responsive Design (Tailwind/SASS).
-- **Efficiency**: AI-Assisted Coding, Process Optimization, Agile Methodologies.
-- **Tools**: Git, GitHub, Vite, VS Code, Figma.
+**Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
----
+**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-## 🌟 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaicker-rafael-lozano-flores-970197264)
-- 📂 [Portfolio](https://jaickerlozano.github.io/portfolio-jaicker/)
-- 🧑‍💻 [GitHub](https://github.com/jaickerlozano)
+**Tools & Workflow:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI_Driven_Development-FF6F61?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
-_"Harnessing the power of Code and AI to build the future of efficiency."_
-<!---
-jaickerlozano/jaickerlozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧭 How I work
+
+- 🧱 **Clean architecture & testing** — maintainable structure and tests alongside the code.
+- 🤖 **AI-driven development** — I direct AI agents for exploration, implementation and review; the engineering decisions stay mine.
+- ⚙️ **Process mindset** — I start from the business process, then design the software around it.
+
+---
+
+## 🌟 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaicker-rafael-lozano-flores-970197264)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://jaickerlozano.github.io/portfolio-jaicker/)
+[![Email](https://img.shields.io/badge/jaicker@jaicker.dev-6366F1?style=flat&logo=maildotru&logoColor=white)](mailto:jaicker@jaicker.dev)
