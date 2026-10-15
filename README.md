@@ -24,17 +24,18 @@ Private SaaS products in active development for real clients. Source code is pri
 ## 💼 Featured Projects
 
 - 📦 **Inventory System** — Full-stack inventory management with Django REST Framework + React/TypeScript. Real-time stock tracking, 3-level alert system, row-level concurrency protection (`select_for_update`) and Swagger API docs.
-  👉 [Repository](https://github.com/jaickerlozano/inventory_sistem_full_stack) · [Live Demo](https://inventory-sistem-full-stack.onrender.com)
+  👉 [Repository](https://github.com/jaickerlozano/inventory_sistem_full_stack) · [Live Demo](https://inventory-sistem-frontend.onrender.com/)
 
 - 🏢 **Booking Manager** — Space reservation system for residential complexes. Role-based access (Admin/Resident), real-time AJAX search, email notifications, Cloudinary integration, deployed on Render with PostgreSQL.
   👉 [Repository](https://github.com/jaickerlozano/booking_manager_django) · [Live Demo](https://booking-manager-django.onrender.com/)
 
 - 💻 **Personal Portfolio** — My portfolio with all the projects I've built.
-  👉 [Repository](https://github.com/jaickerlozano/portfolio-jaicker) · [Live Demo](https://jaickerlozano.github.io/portfolio-jaicker/)
+  👉 [Repository](https://github.com/jaickerlozano/portfolio-jaicker) · [Live Demo](https://jaicker.dev)
 
 <details>
 <summary>📚 More projects (learning path)</summary>
 
+- 🥤 [Vending Services Web App](https://github.com/jaickerlozano/vending-services-web-app) — Collaborative project: built the full Django REST backend, integrated it with the React frontend and added 78 automated tests.
 - 📸 [Instagram Clone](https://github.com/jaickerlozano/instagram-django) — Django social network with auth, media handling and complex model relationships.
 - 📚 [Library Management System](https://github.com/jaickerlozano/django-library-management-system) — Class-Based Views, custom ModelForms and a customized Django Admin.
 - ⚙️ [Django Mastery Hub](https://github.com/jaickerlozano/conquer-blocks-django) — Django architectures, CBVs and backend structure.
@@ -67,5 +68,5 @@ Private SaaS products in active development for real clients. Source code is pri
 ## 🌟 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaicker-rafael-lozano-flores-970197264)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://jaickerlozano.github.io/portfolio-jaicker/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://jaicker.dev)
 [![Email](https://img.shields.io/badge/hi@jaicker.dev-6366F1?style=flat&logo=maildotru&logoColor=white)](mailto:hi@jaicker.dev)
